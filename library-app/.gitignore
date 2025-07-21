@@ -1,0 +1,58 @@
+# Eclipse-specific files
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.local-history/
+.settings/
+*.log
+
+# Eclipse project files (optional to ignore)
+*.project
+*.classpath
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Build output
+/bin/
+/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+
+# Node.js (in case any frontend tooling is used)
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# Other
+*.orig
